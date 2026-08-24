@@ -126,18 +126,15 @@ EDA • ML • Predictive Analytics • Visualization
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik01042005&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik01042005&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik01042005&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik01042005&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pratik01042005&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Pratik01042005&theme=tokyonight&hide_border=true)
 
 ---
 
